@@ -2,6 +2,8 @@
 
 為 [Claude Code](https://claude.ai/code) Hooks 打造的原生 macOS 通知系統，搭配自訂 clawd 圖示。
 
+![macOS 展示 Claude Code 通知](assets/claude-code-notifier-demo.png)
+
 ## 為何需要這個專案
 
 Claude Code 的 `Notification` Hook 會在終端機**不在前景**且 Claude 需要你注意時觸發。挑戰在於如何發送帶有自訂圖示的 macOS 通知：

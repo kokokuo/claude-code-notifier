@@ -2,6 +2,8 @@
 
 A native macOS notification system for [Claude Code](https://claude.ai/code) hooks, featuring a custom clawd icon.
 
+![macOS show Claude Code demo](assets/claude-code-notifier-demo.png)
+
 ## Why This Exists
 
 Claude Code's `Notification` hook fires when Claude needs your attention and the terminal is **not in focus**. The challenge is delivering macOS notifications with a custom icon:
